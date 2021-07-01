@@ -1,0 +1,442 @@
+{
+  "flicks": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "director": "Frank Darabont"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "year": 1972,
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "id": 3,
+      "title": "The Godfather: Part II",
+      "year": 1974,
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "title": "The Empire Strikes Back",
+      "director": "Irvin Kershner",
+      "year": "1979",
+      "id": 4
+    },
+    {
+      "title": "ready player one",
+      "director": "Steven Spielberg",
+      "year": "2018",
+      "id": 5
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 6
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 7
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 8
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 9
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 10
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 11
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 12
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 13
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 14
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 15
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 16
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 17
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 18
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 19
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 20
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 21
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 22
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 23
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 24
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 25
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 26
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 27
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 28
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 29
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 30
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 31
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 32
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 33
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 34
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 35
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 36
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 37
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 38
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 39
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 40
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 41
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 42
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 43
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 44
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 45
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 46
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 47
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 48
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 49
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 50
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 51
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 52
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 53
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 54
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 55
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 56
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 57
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 58
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 59
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 60
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 61
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 62
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 63
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 64
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 65
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 66
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 67
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 68
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 69
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 70
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 71
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 72
+    },
+    {
+      "title": "Empire strikes back",
+      "director": "Irvin Kershner",
+      "rating": 10,
+      "id": 73
+    }
+  ]
+}
